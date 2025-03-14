@@ -1,1 +1,1 @@
-Proje hakkinda bilgi almak ve calistirabilmek icin ekledigim pdf dosyasina bakin lutfen.
+Proje hakkinda bilgi almak ve calistirabilmek icin ekledigim pdf dosyasina bakin lutfen. Eger sistem calismazsa yuksek ihtimal portlar halihazirda kullanimdadir, lutfen portlari kullanan prrocessleri durdurarak veya Nginx icindeki conf dosyasindan portu degistirerek tekrar deneyin.
