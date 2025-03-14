@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\ScalingAPIGateways\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF0455C-A4EA-4938-A624-55775B96BE20}|APIGateWay1\\APIGateWay1.csproj|c:\\users\\hp\\desktop\\scalingapigateways\\apigateway1\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9FF0455C-A4EA-4938-A624-55775B96BE20}|APIGateWay1\\APIGateWay1.csproj|solutionrelative:apigateway1\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF0455C-A4EA-4938-A624-55775B96BE20}|APIGateWay1\\APIGateWay1.csproj|c:\\users\\hp\\desktop\\scalingapigateways\\apigateway1\\apigateway1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FF0455C-A4EA-4938-A624-55775B96BE20}|APIGateWay1\\APIGateWay1.csproj|solutionrelative:apigateway1\\apigateway1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3BF1EC-320F-4751-A2D5-BC857C1A7DF1}|APIGateWay2\\APIGateWay2.csproj|c:\\users\\hp\\desktop\\scalingapigateways\\apigateway2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3BF1EC-320F-4751-A2D5-BC857C1A7DF1}|APIGateWay2\\APIGateWay2.csproj|solutionrelative:apigateway2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3BF1EC-320F-4751-A2D5-BC857C1A7DF1}|APIGateWay2\\APIGateWay2.csproj|c:\\users\\hp\\desktop\\scalingapigateways\\apigateway2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B3BF1EC-320F-4751-A2D5-BC857C1A7DF1}|APIGateWay2\\APIGateWay2.csproj|solutionrelative:apigateway2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3BF1EC-320F-4751-A2D5-BC857C1A7DF1}|APIGateWay2\\APIGateWay2.csproj|c:\\users\\hp\\desktop\\scalingapigateways\\apigateway2\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B3BF1EC-320F-4751-A2D5-BC857C1A7DF1}|APIGateWay2\\APIGateWay2.csproj|solutionrelative:apigateway2\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3BF1EC-320F-4751-A2D5-BC857C1A7DF1}|APIGateWay2\\APIGateWay2.csproj|c:\\users\\hp\\desktop\\scalingapigateways\\apigateway2\\apigateway2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B3BF1EC-320F-4751-A2D5-BC857C1A7DF1}|APIGateWay2\\APIGateWay2.csproj|solutionrelative:apigateway2\\apigateway2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF0455C-A4EA-4938-A624-55775B96BE20}|APIGateWay1\\APIGateWay1.csproj|c:\\users\\hp\\desktop\\scalingapigateways\\apigateway1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9FF0455C-A4EA-4938-A624-55775B96BE20}|APIGateWay1\\APIGateWay1.csproj|solutionrelative:apigateway1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF0455C-A4EA-4938-A624-55775B96BE20}|APIGateWay1\\APIGateWay1.csproj|c:\\users\\hp\\desktop\\scalingapigateways\\apigateway1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF0455C-A4EA-4938-A624-55775B96BE20}|APIGateWay1\\APIGateWay1.csproj|solutionrelative:apigateway1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 371,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "APIGateWay1",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ScalingAPIGateways\\APIGateWay1\\APIGateWay1.csproj",
+              "RelativeDocumentMoniker": "APIGateWay1\\APIGateWay1.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ScalingAPIGateways\\APIGateWay1\\APIGateWay1.csproj",
+              "RelativeToolTip": "APIGateWay1\\APIGateWay1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T09:08:29.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ScalingAPIGateways\\APIGateWay2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIGateWay2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ScalingAPIGateways\\APIGateWay2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIGateWay2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T12:50:42.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ScalingAPIGateways\\APIGateWay2\\Program.cs",
+              "RelativeDocumentMoniker": "APIGateWay2\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ScalingAPIGateways\\APIGateWay2\\Program.cs",
+              "RelativeToolTip": "APIGateWay2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:49:38.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ScalingAPIGateways\\APIGateWay2\\ocelot.json",
+              "RelativeDocumentMoniker": "APIGateWay2\\ocelot.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ScalingAPIGateways\\APIGateWay2\\ocelot.json",
+              "RelativeToolTip": "APIGateWay2\\ocelot.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T12:48:03.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "APIGateWay2",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ScalingAPIGateways\\APIGateWay2\\APIGateWay2.csproj",
+              "RelativeDocumentMoniker": "APIGateWay2\\APIGateWay2.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ScalingAPIGateways\\APIGateWay2\\APIGateWay2.csproj",
+              "RelativeToolTip": "APIGateWay2\\APIGateWay2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T12:47:45.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ScalingAPIGateways\\APIGateWay1\\ocelot.json",
+              "RelativeDocumentMoniker": "APIGateWay1\\ocelot.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ScalingAPIGateways\\APIGateWay1\\ocelot.json",
+              "RelativeToolTip": "APIGateWay1\\ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T12:42:42.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ScalingAPIGateways\\APIGateWay1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIGateWay1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ScalingAPIGateways\\APIGateWay1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIGateWay1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T12:42:28.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ScalingAPIGateways\\APIGateWay1\\Program.cs",
+              "RelativeDocumentMoniker": "APIGateWay1\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ScalingAPIGateways\\APIGateWay1\\Program.cs",
+              "RelativeToolTip": "APIGateWay1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:41:42.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

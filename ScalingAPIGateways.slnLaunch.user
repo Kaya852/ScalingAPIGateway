@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "DriverService\\DriverService.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "CustomerService\\CustomerService.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "CarService\\CarService.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "APIGateWay1\\APIGateWay1.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "APIGateWay2\\APIGateWay2.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]

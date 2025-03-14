@@ -1,0 +1,2 @@
+127.0.0.1 - - [13/Mar/2025:17:24:42 +0400] "GET /cars HTTP/1.1" 200 80 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+127.0.0.1 - - [13/Mar/2025:17:24:42 +0400] "GET /favicon.ico HTTP/1.1" 404 0 "http://localhost:8080/cars" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"

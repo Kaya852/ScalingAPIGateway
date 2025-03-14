@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "CarService.Controllers.CarsController",
+    "Method": "Get",
+    "RelativePath": "api/cars",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

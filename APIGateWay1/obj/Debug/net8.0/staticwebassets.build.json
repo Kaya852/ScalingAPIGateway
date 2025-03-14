@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Le6o/unFMIVtitYGNGNkFXarp6j2U8S20H1YhD++ve0=",
+  "Source": "APIGateWay1",
+  "BasePath": "_content/APIGateWay1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
